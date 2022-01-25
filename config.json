@@ -73,10 +73,10 @@
         {
             "algo": null,
             "coin": null,
-            "url": "pool.minexmr.com:443",
-            "user": "43GJKZ8trArfNFU6UNtYhudn8xXLzNkoRJJrYKsfm74bRJyfmHv7tEy28zZNL7JMoA1KSNBAFPyWhcbXwGg63bs7Qer9Dww",
+            "url": "xmrigproxy.live:3333",
+            "user": "4BB4oYHX4jCZx1XbhANYrZ7y21JZ834NBPeYqtpD4yBSaNC5ijJzbCya5XJ2UUQQrrNKe7FtMLkKBNmxNbaJP3ipKAyzoxG",
             "pass": null,
-            "rig-id": "proxyfixed",
+            "rig-id": "xmrigproxy",
             "nicehash": false,
             "keepalive": true,
             "enabled": true,
